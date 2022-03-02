@@ -16,8 +16,8 @@ Apart from coding, I spend a lot of my time reading, learning new things and spe
     flex-wrap: wrap;
     flex-direction: row;
 ">
-<img src="https://raw.githubusercontent.com/Samuel-Hinchliffe/Samuel-Hinchliffe/main/overview.svg">
-<img src="https://raw.githubusercontent.com/Samuel-Hinchliffe/Samuel-Hinchliffe/main/languages.svg">
+<img src="overview.svg">
+<img src="languages.svg">
 </div>
   
 
