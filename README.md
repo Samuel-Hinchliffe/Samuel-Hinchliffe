@@ -9,7 +9,7 @@ Apart from coding, I spend a lot of my time reading, learning new things and spe
 <br>
 <br>
 ![](https://github.com/Samuel-Hinchliffe/Samuel-Stats/blob/master/generated/overview.svg)
-![](https://github.com/Samuel-Hinchliffe/Samuel-Hinchliffe/languages.svg)
+![](https://github.com/Samuel-Hinchliffe/Samuel-Stats/blob/master/generated/languages.svg)
 
   
 
