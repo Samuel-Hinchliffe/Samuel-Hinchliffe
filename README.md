@@ -19,5 +19,5 @@ Apart from coding, I spend a lot of my time reading, learning new things and spe
 <img src="https://raw.githubusercontent.com/Samuel-Hinchliffe/Samuel-Hinchliffe/main/overview.svg">
 <img src="https://raw.githubusercontent.com/Samuel-Hinchliffe/Samuel-Hinchliffe/main/languages.svg">
 </div>
-  
+
 
