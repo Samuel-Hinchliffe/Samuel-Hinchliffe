@@ -8,17 +8,6 @@ My name is Samuel Hinchliffe and I work as a Software Engineer / Full Stack Deve
 Apart from coding, I spend a lot of my time reading, learning new things and spending time with the people who I love most. I'm a great lover of art, psychology and philosophy. I love discussing crazy ideas and profound theoretical questions. Do dreams really mean anything? 
 <br>
 <br>
-<!-- <div style="
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    align-content: center;
-    flex-wrap: wrap;
-    flex-direction: row;
-">
-<img src="https://raw.githubusercontent.com/Samuel-Hinchliffe/Samuel-Stats/blob/master/generated/overview.svg">
-<img src="https://raw.githubusercontent.com/Samuel-Hinchliffe/Samuel-Stats/blob/master/generated/languages.svg">
-</div> -->
 ![](https://github.com/Samuel-Hinchliffe/Samuel-Stats/blob/master/generated/overview.svg)
 ![](https://github.com/Samuel-Hinchliffe/Samuel-Stats/blob/master/generated/languages.svg)
 
