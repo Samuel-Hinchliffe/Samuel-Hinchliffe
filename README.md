@@ -16,8 +16,9 @@ Apart from coding, I spend a lot of my time reading, learning new things and spe
     flex-wrap: wrap;
     flex-direction: row;
 ">
-<img src="overview.svg">
-<img src="languages.svg">
+<img src="https://raw.githubusercontent.com/Samuel-Hinchliffe/Samuel-Stats/blob/master/generated/overview.svg">
+<img src="https://raw.githubusercontent.com/Samuel-Hinchliffe/Samuel-Stats/blob/master/generated/languages.svg">
 </div>
-  
+![](https://github.com/Samuel-Hinchliffe/Samuel-Stats/blob/master/generated/overview.svg)
+![](https://github.com/Samuel-Hinchliffe/Samuel-Stats/blob/master/generated/languages.svg)
 
