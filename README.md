@@ -1,5 +1,5 @@
 
-# Hey there! <img src="https://raw.githubusercontent.com/Samuel-Hinchliffe/Samuel-Hinchliffe/main/wave.gif" width="30px" style="width:30px!important">
+# Hey there!
 
 My name is Samuel Hinchliffe and I work as a Software Engineer / Full Stack Developer for [PRIME AI](https://www.primeai.co.uk/). I'm from the United Kingdom. If you wish, come connect with me on [Linkedin](https://www.linkedin.com/in/samuel-hinchliffe-2bb5801a5/)
 
